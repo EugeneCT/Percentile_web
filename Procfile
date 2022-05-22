@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser percentile_webapp.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser percentile_webapp.ipynb
